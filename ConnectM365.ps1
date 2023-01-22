@@ -1,0 +1,1 @@
+Connect-ExchangeOnline -ShowBanner $false
